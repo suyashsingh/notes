@@ -1,4 +1,4 @@
-# Chapter 1 (Scribles)
+# Chapter 1 (Scribbles)
 ---
 1. History of Unix
 2. History of BSD
