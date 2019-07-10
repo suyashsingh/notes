@@ -1,4 +1,4 @@
-#(Scribles)Chapter 1 
+# Chapter 1 (Scribles)
 ---
 1. History of Unix
 2. History of BSD
@@ -13,9 +13,9 @@
 11. Definition of Kernel mode
 12. Definition of User mode
 13. How C library calls come in to scene (Diagram)
-a. Many to one relationship (provide additional functionality)
-b. One to One relationship
-c. Some don't call system calls at all
+  + Many to one relationship (provide additional functionality)
+  + One to One relationship
+  + Some don't call system calls at all
 14. Term kernel is execution on behalf of application
 15. Interrupts Handling (Number)
 16. Interrupt Context
@@ -26,9 +26,9 @@ c. Some don't call system calls at all
 21. Good that linux has interms of Monolithic vs micro kernel
 22. Diff b/w linux kernel & unix
 23. Kernel versioniing
-a. Kernel Versions
-b. Importance of numbering scheme
-c. Kernel series
-d. Development process (feature freeze, code freeze)
+  + Kernel Versions
+  + Importance of numbering scheme
+  + Kernel series
+  + Development process (feature freeze, code freeze)
 24. Linux kernel development community
  
